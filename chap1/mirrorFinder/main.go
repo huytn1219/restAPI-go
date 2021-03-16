@@ -7,7 +7,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/huytn1219/restAPI-go/mirrors"
+	"github.com/huytn1219/restAPI-go/chap1/mirrors"
 )
 
 type response struct {
